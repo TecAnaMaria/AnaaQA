@@ -3,7 +3,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f4cccc&height=180&section=header&text=ANA+SILVA&fontSize=50&fontColor=00000&animation=twinkling&fontAlignY=40"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=BACHAREL+EM+REDES+DE+COMPUTADORES;ANALISTA+DE+QUALIDADE;DEV+FRONT+END+EM+DESENVOLVIMENTO;BACHAREL+EM+BIOMEDICINA!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=BACHAREL+EM+REDES+DE+COMPUTADORES;ANALISTA+DE+QUALIDADE;DEV+FRONT+END+EM+PROCESSO;BACHAREL+EM+BIOMEDICINA!+:%29)](https://git.io/typing-svg)
 
 
 <div  align="center"> 
